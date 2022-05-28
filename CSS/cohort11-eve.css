@@ -3,7 +3,7 @@ p {
     color: black;
     text-align: ;
   }
-h1 {color: green; text-align: center; text-size-adjust: 50px;}
+h1 {color: green; text-align: right; text-size-adjust: 50px;}
 h2 {text-size-adjust: 50px; color: red;}
 p {font-family: 'Trebuchet MS';
 font-style: oblique; font-size: 15px;}
