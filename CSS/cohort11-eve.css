@@ -3,8 +3,9 @@ p {
     color: black;
     text-align: ;
   }
-h1 {color: green; text-align: right; text-size-adjust: 50px;}
+h1 {color: green; text-align: center; text-size-adjust: 50px;}
 h2 {text-size-adjust: 50px; color: red;}
-p {font-family: 'Trebuchet MS';
+p { font-style: normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: oblique; font-size: 15px;}
 body {background-color: antiquewhite;}
