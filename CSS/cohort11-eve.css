@@ -4,7 +4,8 @@ p {
     text-align: ;
   }
 h1 {color: green; text-align: center; text-size-adjust: 50px;}
-h2 {text-size-adjust: 50px; color: red;}
+h2 {text-size-adjust: 50px; color: red;
+}
 p { font-style: normal;
   font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: oblique; font-size: 15px;}
