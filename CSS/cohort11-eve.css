@@ -3,8 +3,19 @@ p {
     color: black;
     text-align: right ;
   }
+HEAD
 h1 {color: green; text-align: left; text-size-adjust: 50px;}
 h2 {text-size-adjust: 80px; color:navy;}
+=======
+elizabeth
+h1 {color: blue; text-align: right; text-size-adjust: 50px;}
+h2 {text-size-adjust: 50px; color:green;}
+=======
+h1 {color: green; text-align: center; text-size-adjust: 50px;}
+h2 {text-size-adjust: 50px; color: red;
+}
+ master
+3864be7b84b790d87a7f343c5ac7c4ddeeac6bfc
 p { font-style: normal;
   font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: oblique; font-size: 15px;}
