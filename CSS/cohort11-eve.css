@@ -1,9 +1,9 @@
 
 p {
     color: black;
-    text-align: ;
+    text-align:left ;
   }
-h1 {color: green; text-align: center; text-size-adjust: 50px;}
+h1 {color: green; text-align: left; text-size-adjust: 80px;}
 h2 {text-size-adjust: 50px; color: red;
 }
 p { font-style: normal;
