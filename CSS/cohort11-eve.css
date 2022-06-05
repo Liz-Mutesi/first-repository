@@ -1,13 +1,23 @@
 
 p {
     color: black;
+HEAD
     text-align:left ;
   }
 h1 {color: green; text-align: left; text-size-adjust: 80px;}
+=======
+    text-align: right ;
+  }
+elizabeth
+h1 {color: blue; text-align: right; text-size-adjust: 50px;}
+h2 {text-size-adjust: 50px; color:green;}
+=======
+h1 {color: green; text-align: center; text-size-adjust: 50px;}
+3ac3b84ac22ab037b50434b1d2d7006a97a6ff52
 h2 {text-size-adjust: 50px; color: red;
 }
+ master
 p { font-style: normal;
   font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: oblique; font-size: 15px;}
 body {background-color: antiquewhite;} 
-
